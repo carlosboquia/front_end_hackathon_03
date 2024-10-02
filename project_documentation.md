@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-[Provide a brief summary of the project, including the theme and objectives.]
+A to do list that can remove items upon completion. 
 
 ## Team Members:
 
@@ -14,7 +14,7 @@
 
 ### Carlos:
 
--   Worked on [specific elements] of the webpage.
+-   Worked on building the HTML and parts of the javascript file. 
 
 ### Name 2:
 
