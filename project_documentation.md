@@ -7,8 +7,8 @@ A to do list that can remove items upon completion.
 ## Team Members:
 
 -   Carlos
--   Name 2
--   Name 3
+-   Sarbjit
+-   Sukhpreet 
 
 ## Member Contributions:
 
@@ -16,10 +16,10 @@ A to do list that can remove items upon completion.
 
 -   Worked on building the HTML and parts of the javascript file. 
 
-### Name 2:
+### Sarbjit:
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   worked on HTML and complete the script.js file.
 
-### Name 3:
+### Sukhpreet:
 
--   Handled [specific sections], covering [specific topics or features].
+-   updated the HTML's parts and made style.css file.
